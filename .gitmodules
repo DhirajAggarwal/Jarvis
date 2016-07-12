@@ -1,0 +1,12 @@
+[submodule "Jarvis_API"]
+	path = Jarvis_API
+	url = git://github.com/DhirajAggarwal/Jarvis.git
+[submodule "Jarvis_MWeb"]
+	path = Jarvis_MWeb
+	url = git://github.com/DhirajAggarwal/Jarvis.git
+[submodule "Jarvis_Web"]
+	path = Jarvis_Web
+	url = git://github.com/DhirajAggarwal/Jarvis.git
+[submodule "Jarvis_App"]
+	path = Jarvis_App
+	url = git://github.com/DhirajAggarwal/Jarvis.git
